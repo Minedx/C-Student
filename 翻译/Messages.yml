@@ -1,0 +1,197 @@
+Messages:
+  Config-Reload: '&7你刚才重载了config.yml'
+  Not-An-Enchantment: '&c那不是一个有效的附魔'
+  Right-Click-Black-Scroll: '&7黑色卷轴可随机移除你物品上的一个附魔.'
+  Black-Scroll-Unsuccessful: '&c黑卷轴失效. 请换一个试试.'
+  Need-More-XP-Lvls: '&c你还需要 &6%XP% &c等级.'
+  Need-More-Total-XP: '&c你还需要 &6%XP% &c经验.'
+  Need-More-Money: '&c你还需要 &a$%Money_Needed%&c $.'
+  Hit-Enchantment-Max: '&c你已经突破了此物品附魔数量的极限.'
+  Inventory-Full: '&c你的背包已经满了. 请清理一些东西来买这玩意.'
+  Tinker-Inventory-Full: '&c你的背包满了. 买一些东西或者扔掉.'
+  Tinker-Sold-Msg: '&7感谢你在 &7&l这个 &4&l疯狂的 &c&l小商品市场 &7消费.'
+  Players-Only: '&c只有玩家才能用这个命令.'
+  No-Perm: '&c你没有权限用这个指令.'
+  Not-Online: '&c玩家当前不在线.'
+  Remove-Enchantment: '&7你必须将附魔 &a%Enchantment% &7从这个物品移除.'
+  Doesnt-Have-Enchantment: '&c你的物品并不包含附魔 &6%Enchantment%&c.'
+  Doesnt-Have-Item-In-Hand: '&c你手里必须有东西.'
+  Not-A-Number: '&c%Arg% 不是一个数字.'
+  Get-Success-Dust: '&7你赢得了 &a%Amount% &7胜利之尘.'
+  Give-Success-Dust: '&7你将 &a%Amount% &7个胜利之尘给予了 &6%Player%&7.'
+  Get-Destroy-Dust: '&7你赢得了 &a%Amount% &7毁灭之尘.'
+  Give-Destroy-Dust: '&7你将 &a%Amount% &7个毁灭之尘给予了 &6%Player%&7.'
+  Get-Mystery-Dust: '&7你赢得了 &a%Amount% &7神秘碎片.'
+  Give-Mystery-Dust: '&7你将 &a%Amount% &7个神秘之尘给予了 &6%Player%&7.'
+  Not-A-Category: '&6%Category% &c并不是一个类型.'
+  Clean-Lost-Book: '&7你刚刚清理了一本遗失的书并且找到了 %Found%&7.'
+  Book-Works: '&a你的物品喜欢这本书并接受了它.'
+  Book-Failed: '&c你的物品没法强制接受这本书.'
+  Item-Destroyed: '&c物品被摧毁了.'
+  Item-Was-Protected: '&c你的物品幸运的被保存了下来.'
+  Give-Protection-Crystal: '&7你刚刚给了 %Player% %Amount% 个&b保护水晶&7.'
+  Get-Protection-Crystal: '&7你获得了 %Amount% 个&b保护水晶&7.'
+  Give-Scrambler-Crystal: '&7你刚刚给了 %Player% %Amount% &e&l个 附魔随机器&7.'
+  Get-Scrambler-Crystal: '&7你获得了 %Amount% 个&e&l附魔随机器&7.'
+  Break-Enchantment-Shop-Sign: '&c你刚刚移除了一个疯狂附魔商店的牌子.'
+  Send-Enchantment-Book: '&7你给了 &6%Player% &7一本疯狂附魔书.'
+  Not-A-GKit: '&c%Kit% 不是一个 GKit.'
+  Still-In-Cooldown: '&c你还有 %Day%天 %Hour%小时 %Minute%分钟 %Second%秒 cooldown left on %Kit%&c.'
+  Given-GKit: '&7你刚刚给了 &6%Player%&7 一个 %Kit%&7 工具包.'
+  Received-GKit: '&7你刚刚收到了 %Kit%&7 工具包.'
+  No-GKit-Permission: '&c你没有权限使用 %Kit% GKit.'
+  Spawned-Book: '&7你刚刚在 &6%World%世界的 %X%, %Y%, %Z% 创建了一个疯狂附魔书&7.'
+  Enchantment-Upgrade:
+    Success: '&7你刚刚把 &6%Enchantment%&7 附魔升级到了 &6%Level%&7 级.'
+    Destroyed: '&c你的附魔升级失败了，并且你丢失了低等级的附魔.'
+    Failed: '&c附魔升级失败了.'
+  Rage:
+    Building: '&aKeep it up, your rage is building.'
+    Cooled-Down: '&cYour Rage has Cooled Down.'
+    Rage-Up: '&3You are now doing &a%Level%x &3Damage.'
+  InfoGUI:
+    Inventory:
+      Size: 18
+      Name: '&c&lEnchantment Info'
+    Categories-Info:
+      Back:
+        Right: '&7&l<<&b&l返回'
+        Left: '&b&l返回&7&l>>'
+      Helmets:
+        Item: 314
+        Slot: 1
+        Name: '&e&l头盔附魔'
+        Lore:
+          - '&c可附魔物品:'
+          - '&a皮革头盔'
+          - '&a- 锁链头盔'
+          - '&a- 金头盔'
+          - '&a- 铁头盔'
+          - '&a- 钻石头盔'
+      Boots:
+        Item: 317
+        Slot: 2
+        Name: '&e&l鞋子附魔'
+        Lore:
+          - '&c可附魔物品:'
+          - '&a皮革鞋子'
+          - '&a- 锁链鞋子'
+          - '&a- 金鞋子'
+          - '&a- 铁鞋子'
+          - '&a- 钻石鞋子'
+      Armor:
+        Item: 315
+        Slot: 3
+        Name: '&e&l装甲附魔'
+        Lore:
+          - '&c可附魔物品:'
+          - '&a皮革装甲'
+          - '&a- 锁链装甲'
+          - '&a- 金装甲'
+          - '&a- 铁装甲'
+          - '&a- 钻石装甲'
+      Bow:
+        Item: 261
+        Slot: 4
+        Name: '&e&l弓附魔'
+        Lore:
+          - '&c可附魔物品:'
+          - '&a- 弓'
+      Sword:
+        Item: 283
+        Slot: 5
+        Name: '&e&l剑附魔'
+        Lore:
+          - '&c可附魔物品:'
+          - '&a- 木剑'
+          - '&a- 石剑'
+          - '&a- 金剑'
+          - '&a- 铁剑'
+          - '&a- 钻石剑'
+      Axe:
+        Item: 286
+        Slot: 6
+        Name: '&e&l斧头附魔'
+        Lore:
+          - '&c可附魔物品:'
+          - '&a- 木斧子'
+          - '&a- 石斧子'
+          - '&a- 金斧子'
+          - '&a- 铁斧子'
+          - '&a- 钻石斧子'
+      Tool:
+        Item: 294
+        Slot: 7
+        Name: '&e&l工具附魔'
+        Lore:
+          - '&c可附魔物品:'
+          - '&a- 所有的镐'
+          - '&a- 所有的斧头'
+          - '&a- 所有的铲子'
+          - '&a- 所有的锄头'
+      Pickaxe:
+        Item: 285
+        Slot: 8
+        Name: '&e&l镐附魔'
+        Lore:
+          - '&c可附魔物品:'
+          - '&a- 木镐'
+          - '&a- 石镐'
+          - '&a- 金镐'
+          - '&a- 铁镐'
+          - '&a- 钻石镐'
+      Misc:
+        Item: 345
+        Slot: 9
+        Name: '&e&l查看附魔'
+        Lore:
+          - '&a看一个附魔'
+          - '&a并且搞清楚什么东西能被附魔.'
+      Other:
+        Item: 381
+        Slot: 14
+        Name: '&e&l其他信息'
+        Lore:
+          - '&c关于这些东西的信息:'
+          - '&a- 修复师'
+          - '&a- 卷轴'
+          - '&a- 魔法之尘'
+          - '&a- 铁匠'
+    BlackSmith:
+      - '&7你一个附魔想升级?'
+      - '&7或者升级一本附魔书?'
+      - '&7铁匠就是为你而生的. 它像一个铁砧工作'
+      - '&7但是可以自定义附魔. 你需要做的事情就是扔两个东西或者两本书然后 BLAMO,'
+      - '&7你可以简单的升级你的旧低级附魔.'
+      - '&7&l(&6&l!&7&l) &7只工作于自定义附魔. 不对原版的附魔起效.'
+    Black-Scroll:
+      - '&7铁匠卷轴会帮你移除附魔.'
+      - '&7你需要做的就算把光标移到上面.'
+      - '&7抓起东西然后扔上去然后 BLAMO.它会带走一个随机的附魔,' # 全中国都没找到看得懂这个单词的,不爽就删了
+      - '&7然后生成一本附魔书. 简单的换更好的附魔.'
+      - '&7&l(&6&l!&7&l) &7只工作于自定义附魔.'
+    White-Scroll:
+      - '&7有一个珍贵的东西不希望损坏?'
+      - '&7这个卷轴可以让你保护你的东西'
+      - '&7不会被损坏,祝你好运'
+      - '&7白卷轴会增加一个 &b&l保护 &7文本到你的贵重物品上'
+      - '&7,如果被破坏了会得到一次保护,'
+      - '&7每次添加 &b&l保护 &7文本都需要一个新的白卷轴.'
+    Tinker:
+      - '&7刚刚打劫了一个大城堡获得了一堆没用的附魔物品?'
+      - '&7想要处理掉这些东西但又不想摧毁它们?'
+      - '&7请和 &4&l疯狂修复师 &7交易回收它们,'
+      - '&7你可以获得经验瓶以进行新一次的附魔'
+      - '&7他也回收附魔书，并且会给你魔法之尘'
+      - '&7右键获得胜利之尘与失败之尘.'
+      - '&7&l(&6&l!&7&l) &7交换附魔书只工作于自定义附魔.'
+    Success-Dust:
+      - '&7你有一本成功率极低的附魔书?'
+      - '&7这个尘土能有效地帮助你的成功等级上升.'
+      - '&7把它和附魔书混合在一起然后 BLAMO.'
+      - '&7它会按比例提高你的附魔书的成功等级.'
+    Destroy-Dust:
+      - '&7有一个高损毁等级的附魔书?'
+      - '&7这个尘土能调低损毁率.'
+      - '&7把它和附魔书混合在一起然后 BLAMO.'
+      - '&7它会按比例降低你的附魔书的损毁率.'

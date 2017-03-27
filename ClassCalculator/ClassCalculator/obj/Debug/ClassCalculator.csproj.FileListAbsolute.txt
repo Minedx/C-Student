@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\ClassCalculator\ClassCalculator\bin\Debug\ClassCalculator.exe.config
+c:\users\user\documents\visual studio 2012\Projects\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\ClassCalculator\ClassCalculator\bin\Debug\ClassCalculator.exe
+c:\users\user\documents\visual studio 2012\Projects\ClassCalculator\ClassCalculator\bin\Debug\ClassCalculator.pdb
+c:\users\user\documents\visual studio 2012\Projects\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.exe
+c:\users\user\documents\visual studio 2012\Projects\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.pdb

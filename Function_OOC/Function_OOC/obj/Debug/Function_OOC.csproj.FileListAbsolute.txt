@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\Function_OOC\Function_OOC\bin\Debug\Function_OOC.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Function_OOC\Function_OOC\obj\Debug\Function_OOC.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Function_OOC\Function_OOC\obj\Debug\Function_OOC.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Function_OOC\Function_OOC\obj\Debug\Function_OOC.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Function_OOC\Function_OOC\bin\Debug\Function_OOC.exe
+c:\users\user\documents\visual studio 2012\Projects\Function_OOC\Function_OOC\bin\Debug\Function_OOC.pdb
+c:\users\user\documents\visual studio 2012\Projects\Function_OOC\Function_OOC\obj\Debug\Function_OOC.exe
+c:\users\user\documents\visual studio 2012\Projects\Function_OOC\Function_OOC\obj\Debug\Function_OOC.pdb
+c:\users\user\documents\visual studio 2012\Projects\Function_OOC\Function_OOC\obj\Debug\Function_OOC.Form1.resources

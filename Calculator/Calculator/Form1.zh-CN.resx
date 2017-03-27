@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="BackSpace.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 130</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="BackSpace.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="BackSpace.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="CE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 130</value>
+  </data>
+  <data name="CE.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="CE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="C.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 130</value>
+  </data>
+  <data name="C.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="C.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Change.Location" type="System.Drawing.Point, System.Drawing">
+    <value>175, 130</value>
+  </data>
+  <data name="Change.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Change.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="SquareRoot.Location" type="System.Drawing.Point, System.Drawing">
+    <value>229, 130</value>
+  </data>
+  <data name="SquareRoot.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="SquareRoot.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Seven.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 176</value>
+  </data>
+  <data name="Seven.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Seven.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Eight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 176</value>
+  </data>
+  <data name="Eight.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Eight.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Nine.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 176</value>
+  </data>
+  <data name="Nine.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Nine.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Divide.Location" type="System.Drawing.Point, System.Drawing">
+    <value>175, 176</value>
+  </data>
+  <data name="Divide.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Divide.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="b.Location" type="System.Drawing.Point, System.Drawing">
+    <value>230, 176</value>
+  </data>
+  <data name="b.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="b.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Four.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 221</value>
+  </data>
+  <data name="Four.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Four.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Five.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 221</value>
+  </data>
+  <data name="Five.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Five.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Six.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 221</value>
+  </data>
+  <data name="Six.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Six.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Muliply.Location" type="System.Drawing.Point, System.Drawing">
+    <value>175, 221</value>
+  </data>
+  <data name="Muliply.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Muliply.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="a.Location" type="System.Drawing.Point, System.Drawing">
+    <value>229, 221</value>
+  </data>
+  <data name="a.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="a.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="One.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 266</value>
+  </data>
+  <data name="One.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="One.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Two.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 266</value>
+  </data>
+  <data name="Two.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Two.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Three.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 266</value>
+  </data>
+  <data name="Three.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Three.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Minus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>175, 266</value>
+  </data>
+  <data name="Minus.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Minus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="GetResult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>229, 266</value>
+  </data>
+  <data name="GetResult.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="GetResult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 82</value>
+  </data>
+  <data name="Dot.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 312</value>
+  </data>
+  <data name="Dot.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Dot.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Plus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>175, 312</value>
+  </data>
+  <data name="Plus.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Plus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 37</value>
+  </data>
+  <data name="Zero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 312</value>
+  </data>
+  <data name="Zero.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Zero.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 37</value>
+  </data>
+  <data name="Input.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 87</value>
+  </data>
+  <data name="Input.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Input.Multiline" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Input.Size" type="System.Drawing.Size, System.Drawing">
+    <value>259, 23</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 17</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>290, 378</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 9pt</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>计算器</value>
+  </data>
+</root>

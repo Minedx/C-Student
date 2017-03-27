@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\TextBox2ListBox\TextBox2ListBox\bin\Debug\TextBox2ListBox.exe.config
+c:\users\user\documents\visual studio 2012\Projects\TextBox2ListBox\TextBox2ListBox\bin\Debug\TextBox2ListBox.exe
+c:\users\user\documents\visual studio 2012\Projects\TextBox2ListBox\TextBox2ListBox\bin\Debug\TextBox2ListBox.pdb
+c:\users\user\documents\visual studio 2012\Projects\TextBox2ListBox\TextBox2ListBox\obj\Debug\TextBox2ListBox.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\TextBox2ListBox\TextBox2ListBox\obj\Debug\TextBox2ListBox.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\TextBox2ListBox\TextBox2ListBox\obj\Debug\TextBox2ListBox.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\TextBox2ListBox\TextBox2ListBox\obj\Debug\TextBox2ListBox.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\TextBox2ListBox\TextBox2ListBox\obj\Debug\TextBox2ListBox.exe
+c:\users\user\documents\visual studio 2012\Projects\TextBox2ListBox\TextBox2ListBox\obj\Debug\TextBox2ListBox.pdb

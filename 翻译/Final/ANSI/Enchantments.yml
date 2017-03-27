@@ -1,0 +1,1678 @@
+Enchantments:
+  Glowing: #这条不能改不然要报错.
+    Enabled: True #附魔更新与否
+    Name: '夜视' #游戏内附魔名称
+    Color: '&7' #此物品附魔后的颜色
+    BookColor: '&b&l' #拥有此附魔的附魔书的颜色
+    MaxPower: 1 #此附魔的最高等级
+    Info: #Info for the enchantment
+      Name: '&e&l夜视 &7(&bI&7)' #GUI名称
+      Description: #The description of what it does
+        - '&7具有夜视仪功能'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a头盔'
+    Categories: #All the categories the Enchantment can be found in
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  BurnShield:
+    Enabled: True
+    Name: '消防'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l消防 &7(&bI&7)'
+      Description:
+        - '&7提供抗火'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Piercing:
+    Enabled: True
+    Name: '穿刺'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l穿刺 &7(&bI-&bIII&7)' 
+      Description:
+        - '&7有几率双倍伤害'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a弓'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  OverLoad:
+    Enabled: True
+    Name: '过载'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l过载 &7(&bI-&bV&7)'
+      Description:
+        - '&7穿着时给予生命恢复.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  SelfDestruct:
+    Enabled: True
+    Name: '自爆'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l自爆 &7(&bI-&bV&7)'
+      Description:
+        - '&7死亡后会产生爆炸.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Springs:
+    Enabled: True
+    Name: '弹跳'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l弹跳 &7(&bI-&bV&7)'
+      Description:
+        - '&7穿着时跳跃提升.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a靴子'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Gears:
+    Enabled: True
+    Name: '加速'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l加速 &7(&bI-&bIII&7)'
+      Description:
+        - '&7穿着时加速.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a靴子'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Hulk:
+    Enabled: True
+    Name: '重装'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 2
+    Info:
+      Name: '&e&l重装 &7(&bI-&bII&7)'
+      Description:
+        - '&7穿着时减少移动速度,增强战斗力.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Mermaid:
+    Enabled: True
+    Name: '呼吸'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l呼吸 &7(&bI-&bIII&7)'
+      Description:
+        - '&7水下呼吸效果.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a头盔'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Ninja:
+    Enabled: True
+    Name: '忍术'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 2
+    Info:
+      Name: '&e&l忍术 &7(&bI-&bII&7)'
+      Description:
+        - '&7穿着时提供加速与回血效果.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Vampire:
+    Enabled: True
+    Name: '噬血'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l噬血 &7(&bI-&bV&7)'
+      Description:
+        - '&7攻击时有几率回血.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  LifeSteal:
+    Enabled: True
+    Name: '转生'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l转生 &7(&bI-&bV&7)'
+      Description:
+        - '&7使用时有几率吸收对方生命.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Doctor:
+    Enabled: True
+    Name: '治疗'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l治疗 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率治疗你命中的玩家.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a弓'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Boom:
+    Enabled: True
+    Name: '爆炸'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l爆炸 &7(&bI-&bIII&7)'
+      Description:
+        - '&7射击可能产生TNT'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a弓'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Venom:
+    Enabled: True
+    Name: '猛毒'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l猛毒 &7(&bI-&bV&7)'
+      Description:
+        - '&7射击概率使对方中毒.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a弓'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  DoubleDamage:
+    Enabled: True
+    Name: '暴击'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l暴击 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率双倍伤害.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  SlowMo:
+    Enabled: True
+    Name: '减速'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l减速 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率使目标减速.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Blindness:
+    Enabled: True
+    Name: '失明'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 2
+    Info:
+      Name: '&e&l失明 &7(&bI-&bII&7)'
+      Description:
+        - '&7有几率使目标失明'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Viper:
+    Enabled: True
+    Name: '毒刺'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l毒刺 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率使目标中毒'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  AntiGravity:
+    Enabled: True
+    Name: '浮空'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l浮空 &7(&bI-&bIII&7)'
+      Description:
+        - '&7穿着时提供跳跃提升'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a靴子'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  FastTurn:
+    Enabled: True
+    Name: '增幅'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 2
+    Info:
+      Name: '&e&l增幅 &7(&bI-&bII&7)'
+      Description:
+        - '&7有几率造成更多伤害'
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  LightWeight:
+    Enabled: True
+    Name: '轻装'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l轻装 &7(&bI-&bIII&7)'
+      Description:
+        - '&7战斗时有几率给予饱和效果'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Blessed:
+    Enabled: True
+    Name: '净化'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l净化 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率清除所有负面效果.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a斧头'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  FeedMe:
+    Enabled: True
+    Name: '暴食'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l暴食 &7(&bI-&bV&7)'
+      Description:
+        - '&7战斗中有几率恢复饥饿度'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a斧头'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Dizzy:
+    Enabled: True
+    Name: '混乱'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l混乱 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率使你的敌人陷入混乱'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a斧头'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Berserk:
+    Enabled: True
+    Name: '暴怒'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l暴怒 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率降低挖掘速度提升攻击'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a斧头'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Cursed:
+    Enabled: True
+    Name: '疲弱'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l疲弱 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率使你的目标挖掘疲劳'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a斧头'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Rekt:
+    Enabled: True
+    Name: '重锤'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l重锤 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率造成双倍伤害'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a斧头'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Enlightened:
+    Enabled: True
+    Name: '吸收'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l吸收 &7(&bI-&bV&7)'
+      Description:
+        - '&7受伤时有几率恢复血量'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Freeze:
+    Enabled: True
+    Name: '冻结'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 2
+    Info:
+      Name: '&e&l冻结 &7(&bI-&bII&7)'
+      Description:
+        - '&7受伤时有几率使敌人减速'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Fortify:
+    Enabled: True
+    Name: '弱化'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l弱化 &7(&bI-&bIII&7)'
+      Description:
+        - '&7受伤时有几率使敌人虚弱'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Molten:
+    Enabled: True
+    Name: '热熔'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l热熔 &7(&bI-&bV&7)'
+      Description:
+        - '&7受伤时有几率点燃你的敌人'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  PainGiver:
+    Enabled: True
+    Name: '涂毒'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 4
+    Info:
+      Name: '&e&l涂毒 &7(&bI-&bIV&7)'
+      Description:
+        - '&7受伤时有几率使敌人中毒'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Savior:
+    Enabled: True
+    Name: '分散'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l分散 &7(&bI-&bV&7)'
+      Description:
+        - '&7受伤时有几率减半伤害'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Nursery:
+    Enabled: True
+    Name: '滋润'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l滋润 &7(&bI-&bV&7)'
+      Description:
+        - '&7走路时有几率回血'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  AutoSmelt:
+    Enabled: True
+    Name: '熔化'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l熔化 &7(&bI-&bV&7)'
+      Description:
+        - '&7挖掘时有几率熔化矿物'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a镐'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Experience:
+    Enabled: True
+    Name: '经验'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l经验 &7(&bI-&bIII&7)'
+      Description:
+        - '&7挖掘时有几率生成更多经验'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a镐'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Telepathy:
+    Enabled: True
+    Name: '感应'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l感应 &7(&bI&7)'
+      Description:
+        - '&7挖掘时有几率直接把矿物熔化并吸进背包'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &aTools'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Haste:
+    Enabled: True
+    Name: '来劲'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l来劲 &7(&bI-&bIII&7)'
+      Description:
+        - '&7手持时恢复饥饿'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &aTools'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Oxygenate:
+    Enabled: True
+    Name: '制氧'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l制氧 &7(&bI&7)'
+      Description:
+        - '&7手持时提供水下呼吸'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &aTools'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  IceFreeze:
+    Enabled: True
+    Name: 'IceFreeze'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l冰结 &7(&bI&7)'
+      Description:
+        - '&7有几率减速目标'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a弓'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Lightning:
+    Enabled: True
+    Name: '雷击'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l雷击 &7(&bI&7)'
+      Description:
+        - '&7射击时有几率雷击目标'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a弓'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Decapitation:
+    Enabled: True
+    Name: '斩首'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&lDecapitation &7(&bI-&bV&7)'
+      Description:
+        - '&7有几率斩下玩家的头'
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a斧头'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Confusion:
+    Enabled: True
+    Name: '反胃'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 4
+    Info:
+      Name: '&e&l反胃 &7(&bI-&bIV&7)'
+      Description:
+        - '&7有几率使目标反胃'
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Disarmer:
+    Enabled: True
+    Name: '卸甲'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l卸甲 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率卸下目标的盔甲'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Execute:
+    Enabled: True
+    Name: '追击'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l追击 &7(&bI-&bV&7)'
+      Description:
+        - '&7目标血量低时有几率获得力量'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Headless:
+    Enabled: True
+    Name: '断头'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l断头 &7(&bI-&bV&7)'
+      Description:
+        - '&7有几率砍下目标的头'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Inquisitive:
+    Enabled: True
+    Name: '熟练'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l熟练 &7(&bI-&bV&7)'
+      Description:
+        - '&7有几率生成更多经验'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Insomnia:
+    Enabled: True
+    Name: '诅咒'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l诅咒 &7(&bI&7)'
+      Description:
+        - '&7自己反胃,挖掘疲劳并减慢移动速度,但有高几率对目标造成双倍伤害'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Nutrition:
+    Enabled: True
+    Name: '吞食'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l吞食 &7(&bI-&bIII&7)'
+      Description:
+        - '&7战斗时有几率恢复饥饿'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Obliterate:
+    Enabled: True
+    Name: '冲刷'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l冲刷 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率大力击退目标'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Paralyze:
+    Enabled: True
+    Name: '麻痹'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l麻痹 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率使目标挖掘疲劳并减速'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  SkillSwipe:
+    Enabled: True
+    Name: '搜刮'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l搜刮 &7(&bI-&bV&7)'
+      Description:
+        - '&7有几率吸收对方经验'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Snare:
+    Enabled: True
+    Name: '捕获'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l捕获 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率使你的敌人挖掘疲劳,减速'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Trap:
+    Enabled: True
+    Name: '陷阱'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 2
+    Info:
+      Name: '&e&l陷阱 &7(&bI-&bII&7)'
+      Description:
+        - '&7有几率使目标大幅减速'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Wither:
+    Enabled: True
+    Name: '凋零'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l凋零 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率使目标高度凋零'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Rage:
+    Enabled: True
+    Name: '持久'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l持久 &7(&bI-&bIII&7)'
+      Description:
+        - '&7攻击会随着战斗时间边长而变高'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a武器'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Valor:
+    Enabled: True
+    Name: '抵抗'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l抵抗 &7(&bI-&bIII&7)'
+      Description:
+        - '&7提供抗性提升'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  SmokeBomb:
+    Enabled: True
+    Name: '烟雾'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l烟雾 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率使你的敌人失明,提供逃脱机会'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Drunk:
+    Enabled: True
+    Name: '钝击'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l钝击 &7(&bI-&bIII&7)'
+      Description:
+        - '&7提供挖掘疲劳,缓慢和力量'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Voodoo:
+    Enabled: True
+    Name: '巫术'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l巫术 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率使目标虚弱'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  MultiArrow:
+    Enabled: True
+    Name: '连发'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l连发 &7(&bI-&bV&7)'
+      Description:
+        - '&7有几率射出多支箭矢'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a弓'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Recover:
+    Enabled: True
+    Name: '剥夺'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l剥夺 &7(&bI&7)'
+      Description:
+        - '&7击杀玩家提供护盾并恢复血量'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Cactus:
+    Enabled: True
+    Name: '尖刺'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l尖刺 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率对攻击你的敌人造成定量伤害'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Rocket:
+    Enabled: True
+    Name: '弹射'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l弹射 &7(&bI-&bIII&7)'
+      Description:
+        - '&7低血量时有几率向后弹射保命'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a靴子'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Angel:
+    Enabled: True
+    Name: '群体治疗'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l群体治疗 &7(&bI-&bV&7)'
+      Description:
+        - '&7治疗附近队友'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  HellForged:
+    Enabled: True
+    Name: '修复'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 4
+    Info:
+      Name: '&e&l修复 &7(&bI-&bIV&7)'
+      Description:
+        - '&7行走时有几率修复道具'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &aArmor, Weapons, and Tools'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Commander:
+    Enabled: True
+    Name: '指挥官'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l指挥官 &7(&bI-&bV&7)'
+      Description:
+        - '&7饱和附近队友'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a头盔'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  StormCaller:
+    Enabled: True
+    Name: '霹雳'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l霹雳 &7(&bI-&bV&7)'
+      Description:
+        - '&7有几率雷击你的敌人'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Leadership:
+    Enabled: True
+    Name: '团结'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l团结 &7(&bI-&bV&7)'
+      Description:
+        - '&7若周围有友军,则伤害提升'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Implants:
+    Enabled: True
+    Name: '低耗'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l低耗 &7(&bI-&bV&7)'
+      Description:
+        - '&7步行时恢复饥饿'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a头盔'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Wings:
+    Enabled: True
+    Name: '飞翔'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l飞翔 &7(&bI&7)'
+      Description:
+        - '&7在你的区域内飞翔'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a靴子'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Blast:
+    Enabled: True
+    Name: '连锁'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l连锁 &7(&bI-&bIII&7)'
+      Description:
+        - '&7一次性挖掉3x3x3的方块'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a镐'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Furnace:
+    Enabled: True
+    Name: '熔炼'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l熔炼 &7(&bI&7)'
+      Description:
+        - '&7百分百直接熔炼矿物'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a镐'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Blizzard:
+    Enabled: True
+    Name: '低温'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l低温 &7(&bI&7)'
+      Description:
+        - '&7使3格内敌人减速'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  AcidRain:
+    Enabled: True
+    Name: '腐蚀'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l腐蚀 &7(&bI-&bIII&7)'
+      Description:
+        - '&7使3格内敌人中毒'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  SandStorm:
+    Enabled: True
+    Name: '沙暴'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 1
+    Info:
+      Name: '&e&l沙暴 &7(&bI&7)'
+      Description:
+        - '&7使3格内敌人暂时失明'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Radiant:
+    Enabled: True
+    Name: '烈焰'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l烈焰 &7(&bI-&bIII&7)'
+      Description:
+        - '&7短暂点燃3格内的敌人'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Intimidate:
+    Enabled: True
+    Name: '恐吓'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 2
+    Info:
+      Name: '&e&l恐吓 &7(&bI-&bII&7)'
+      Description:
+        - '&7使3格内敌人虚弱'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Pull:
+    Enabled: True
+    Name: '推挤'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l推挤 &7(&bI-&bIII&7)'
+      Description:
+        - '&7有几率击飞你的目标'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a弓'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Tamer:
+    Enabled: True
+    Name: '驯兽'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 5
+    Info:
+      Name: '&e&l驯兽 &7(&bI-&bV&7)'
+      Description:
+        - '&7遇到麻烦时召唤狼保护你'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Guards:
+    Enabled: True
+    Name: '守护'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l守护 &7(&bI-&bIII&7)'
+      Description:
+        - '&7遇到麻烦时生成铁傀儡'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Infestation:
+    Enabled: True
+    Name: '寄生契约'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 2
+    Info:
+      Name: '&e&l寄生契约 &7(&bI-&bII&7)'
+      Description:
+        - '&7遇到麻烦时召唤虫子保护你'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+  Necromancer:
+    Enabled: True
+    Name: '亡灵契约'
+    Color: '&7'
+    BookColor: '&b&l'
+    MaxPower: 3
+    Info:
+      Name: '&e&l亡灵契约 &7(&bI-&bIII&7)'
+      Description:
+        - '&7遇到麻烦时召唤保护你的僵尸'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    Categories:
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'

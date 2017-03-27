@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\bin\Debug\MultiClass+.exe.config
+c:\users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\bin\Debug\MultiClass+.exe
+c:\users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\bin\Debug\MultiClass+.pdb
+c:\users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\obj\Debug\MultiClass_.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\obj\Debug\MultiClass_.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\obj\Debug\MultiClass+.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\obj\Debug\MultiClass+.exe
+c:\users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\obj\Debug\MultiClass+.pdb
+C:\Users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\obj\Debug\MultiClass+.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2012\Projects\MultiClass+\MultiClass+\obj\Debug\MultiClass_.toChange.resources
+D:\VS\MultiClass+\MultiClass+\bin\Debug\MultiClass+.exe.config
+D:\VS\MultiClass+\MultiClass+\obj\Debug\MultiClass+.exe
+D:\VS\MultiClass+\MultiClass+\obj\Debug\MultiClass+.pdb
+D:\VS\MultiClass+\MultiClass+\bin\Debug\MultiClass+.exe
+D:\VS\MultiClass+\MultiClass+\bin\Debug\MultiClass+.pdb
+D:\VS\MultiClass+\MultiClass+\obj\Debug\MultiClass+.csprojResolveAssemblyReference.cache
+D:\VS\MultiClass+\MultiClass+\obj\Debug\MultiClass_.Form1.resources
+D:\VS\MultiClass+\MultiClass+\obj\Debug\MultiClass_.Properties.Resources.resources
+D:\VS\MultiClass+\MultiClass+\obj\Debug\MultiClass_.toChange.resources
+D:\VS\MultiClass+\MultiClass+\obj\Debug\MultiClass+.csproj.GenerateResource.Cache

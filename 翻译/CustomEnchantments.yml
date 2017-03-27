@@ -1,0 +1,105 @@
+#Potion Effect Names to pick from: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/potion/PotionEffectType.html
+# 可使用 # 进行注释
+Enchantments:
+  Cyborg: #附魔名称
+    Enabled: True #打开或关闭附魔
+    Name: 'Cyborg' #游戏内附魔显示名称
+    Color: '&7' #附魔后物品显示格式
+    BookColor: '&b&l' #附魔书的颜色
+    MaxPower: 1 #此附魔的最大等级
+    Categories: #这个附魔可被找到的所有等级
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+    Info:
+      Name: '&e&l电子增强系统 &7(&bI&7)'
+      Description:
+        - '&7给予你一个速度,攻击力'
+        - '&7j和跳跃高度加成让你解决你的敌人.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可附魔物品: &a护甲'
+    EnchantOptions: #每个附魔可自己设置的属性。
+      ItemsEnchantable: 'Armor' #可设置为 Armor, Boots, Helmet, Axe, Sword, Weapons(Swords & Axes), and Bow.
+      ArmorOptions: #只针对于Armor类型提供的属性.
+        PowerIncrease: 1 # 每个等级会提供的药水效果(倍数?).
+        PotionEffects: # 会生效的药水效果.
+          - 'SPEED:1, Time:1000000'
+          - 'INCREASE_DAMAGE:2, Time:1000000'
+          - 'JUMP:2, Time:1000000'
+  Sniper: #附魔名称
+    Enabled: True #打开或关闭附魔
+    Name: '狙击手' #游戏内附魔显示名称
+    Color: '&7' #附魔后物品显示格式
+    BookColor: '&b&l' #附魔书的颜色
+    MaxPower: 5 #此附魔的最大等级
+    Categories: #这个附魔可被找到的所有等级
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+    Info:
+      Name: '&e&l狙击手 &7(&bI-&bV&7)'
+      Description:
+        - '&7用这个属性的弓攻击别人'
+        - '&7会有概率导致其中毒.'
+        - ''
+        - '&6可在下列等级中被找到:'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可被附魔的物品: &a弓'
+    EnchantOptions: #每个附魔可自己设置的属性。
+      ItemsEnchantable: 'Bow' #可设置为 Armor, Boots, Helmet, Axe, Sword, Weapons(Swords & Axes), and Bow.
+      BowOptions: #只针对于Bow类型提供的属性.
+        OnHit: #当箭射出的时候.
+          #移除 # 使用爆炸属性.
+          #Ground: #如果箭没射中.
+          #  Explode: #爆炸属性.
+          #   Power: 2 #爆炸等级.
+          #    PowerIncrease: 2 #每级会加多少爆炸强度.
+          #    Chance: 25 #箭爆炸的概率.
+          Damaged: #当箭射中玩家.
+            PowerIncrease: 1 #每级附魔对药水效果的加成.
+            PotionEffects: #被附加到这次打击的药水效果.
+            - 'POISON:2, Time:5, Chance:25'
+  Slice: #Enchantment
+    Enabled: True #打开或关闭附魔
+    Name: '多维打击' #游戏内附魔显示名称
+    Color: '&7' #附魔后物品显示格式
+    BookColor: '&b&l' #附魔书的颜色
+    MaxPower: 2 #此附魔的最大等级
+    Categories: #这个附魔可被找到的所有等级
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
+    Info:
+      Name: '&e&l多维打击 &7(&bI-&bII&7)'
+      Description:
+        - '&7给你一个可能'
+        - '&7多倍攻击的属性.'
+        - ''
+        - '&6可在下列等级中被找到'
+        - '&7 - &a&l&n普通'
+        - '&7 - &9&l&n稀有'
+        - '&7 - &4&l&n史诗'
+        - '&6可被附魔的物品: &a武器'
+    EnchantOptions: #每个附魔可自己设置的属性。
+      ItemsEnchantable: 'Weapons' #可设置为 Armor, Boots, Helmet, Axe, Sword, Weapons(Swords & Axes), and Bow.
+      WeaponOptions: #只针对于Sword、Axe类型提供的属性.
+        #移除 # 使用对攻击者的属性.
+        #Damager: #对攻击者.
+        #  PowerIncrease: 1 #每个等级会提供的药水效果.
+        #  PotionEffects: #给攻击者增加的药水效果.
+        #    - 'REGENERATION:2, Time:10, Chance:25'
+        Damaged: #被打的玩家.
+          DamageMultiplyer: #伤害倍率属性.
+            PowerIncrease: 1 #每级会加多少攻击倍率.
+            Multiplyer: 2 #这个等级会给多少攻击加成w.
+            Chance: 25 #增加攻击倍率的概率.
+          #移除 # 使用药水相关的属性.
+          #PowerIncrease: 1 #每级附魔对药水效果的加成.
+          #PotionEffects: #被附加到这次打击的药水效果.
+          #  - 'POISON:2, Time:5, Chance:25'

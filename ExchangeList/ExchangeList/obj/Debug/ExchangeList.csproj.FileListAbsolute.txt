@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\ExchangeList\ExchangeList\bin\Debug\ExchangeList.exe.config
+c:\users\user\documents\visual studio 2012\Projects\ExchangeList\ExchangeList\bin\Debug\ExchangeList.exe
+c:\users\user\documents\visual studio 2012\Projects\ExchangeList\ExchangeList\bin\Debug\ExchangeList.pdb
+c:\users\user\documents\visual studio 2012\Projects\ExchangeList\ExchangeList\obj\Debug\ExchangeList.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ExchangeList\ExchangeList\obj\Debug\ExchangeList.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\ExchangeList\ExchangeList\obj\Debug\ExchangeList.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\ExchangeList\ExchangeList\obj\Debug\ExchangeList.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\ExchangeList\ExchangeList\obj\Debug\ExchangeList.exe
+c:\users\user\documents\visual studio 2012\Projects\ExchangeList\ExchangeList\obj\Debug\ExchangeList.pdb

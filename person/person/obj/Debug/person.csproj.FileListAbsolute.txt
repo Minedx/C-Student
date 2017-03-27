@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2012\Projects\person\person\bin\Debug\person.exe.config
+c:\users\user\documents\visual studio 2012\Projects\person\person\bin\Debug\person.exe
+c:\users\user\documents\visual studio 2012\Projects\person\person\bin\Debug\person.pdb
+c:\users\user\documents\visual studio 2012\Projects\person\person\obj\Debug\person.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\person\person\obj\Debug\person.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\person\person\obj\Debug\person.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\person\person\obj\Debug\person.Wfm2.resources
+c:\users\user\documents\visual studio 2012\Projects\person\person\obj\Debug\person.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\person\person\obj\Debug\person.exe
+c:\users\user\documents\visual studio 2012\Projects\person\person\obj\Debug\person.pdb
+D:\VS\person\person\bin\Debug\person.exe.config
+D:\VS\person\person\obj\Debug\person.exe
+D:\VS\person\person\obj\Debug\person.pdb
